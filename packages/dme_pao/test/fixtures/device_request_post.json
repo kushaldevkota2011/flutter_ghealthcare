@@ -1,0 +1,28 @@
+{
+    "resourceType": "DeviceRequest",
+    "meta": {
+        "profile": [
+            "http://hl7.org/fhir/us/dme-orders/StructureDefinition/PAOX-devicerequest"
+        ],
+        "lastUpdated": "2022-06-20T05:11:17.029972Z",
+        "versionId": "318",
+        "extension": [
+            {
+                "url": "ex:createdAt",
+                "valueInstant": "2022-06-20T05:11:17.029972Z"
+            }
+        ]
+    },
+    "intent": "proposal",
+    "subject": {
+        "display": "testing patient"
+    },
+    "id": "5d8dd42c-2287-427e-9b09-ba05a89e7cef",
+    "codeCodeableConcept": {
+        "coding": [
+            {
+                "code": "testing"
+            }
+        ]
+    }
+}

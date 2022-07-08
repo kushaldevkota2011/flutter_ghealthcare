@@ -1,0 +1,64 @@
+{
+	"resourceType": "DeviceRequest",
+	"id": "2803405",
+	"meta": {
+		"versionId": "1",
+		"lastUpdated": "2022-01-28T03:08:47.881+00:00",
+		"source": "#u3DsbyASM6Xahimd",
+		"security": [{
+			"system": "http://example.com/Coding-1",
+			"code": "Coding-195"
+		}],
+		"tag": [{
+			"system": "http://example.com/Coding-1",
+			"code": "Coding-196"
+		}]
+	},
+	"text": {
+		"status": "generated",
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">#--DeviceRequest--2-112--#</div>"
+	},
+	"identifier": [{
+		"use": "temp",
+		"system": "http://example.com/Identifier-1",
+		"value": "Identifier-68"
+	}],
+	"groupIdentifier": {
+		"use": "temp",
+		"system": "http://example.com/Identifier-1",
+		"value": "Identifier-67"
+	},
+	"status": "on-hold",
+	"intent": "directive",
+	"code": {
+		"CodeableConcept": {
+			"coding": [{
+				"system": "http://example.com/CodeableConcept-1",
+				"code": "CodeableConcept-142"
+			}]
+		}
+	},
+	"parameter": [{
+		"id": "someid"
+	}],
+	"instantiatesUri": ["request"],
+	"basedOn": [{
+		"reference": "Observation/cf-1649660074769"
+	}],
+	"priorRequest": [{
+		"reference": "Observation/cf-1649660074769"
+	}],
+	"subject": {
+		"reference": "Patient/2879147"
+	},
+	"occurrence": {
+		"dateTime": "2022-01-28T03:08:47.881+00:00"
+	},
+	"authoredOn": "2022-01-28T03:08:47.881+00:00",
+	"requester": {
+		"reference": "Patient/2879147"
+	},
+  "relevantHistory": [{
+		"reference": "Provenance/2879147"
+	}]
+}

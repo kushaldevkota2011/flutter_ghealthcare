@@ -1,0 +1,30 @@
+{
+    "payerCode": "00192",
+    "payerName": "UHC",
+    "provider": {
+        "firstName": "",
+        "middleName": "",
+        "lastName": " test name",
+        "npi": "1234567890",
+        "pin":"00000"
+   },
+
+    "subscriber": {
+        "firstName": "fname",
+        "dob": "03/03/2022",
+        "lastName": "lname",
+        "memberID": "123sfadfaf"
+    },
+
+    "dependent": null,
+    "isSubscriberPatient": "True",
+    "doS_StartDate": "02/02/2021",
+    "doS_EndDate": "02/02/2021",
+
+    "PracticeTypeCode":"3",
+    "referenceId":"Pat MRN",
+    "Location":"Any location Name",
+    "IncludeTextResponse":"false",
+    "InternalId":"",
+    "CustomerID":""
+}

@@ -1,0 +1,1973 @@
+{
+    "elgRequestID": 2428,
+    "ediErrorMessage": null,
+    "verificationStatus": "Processed",
+    "verificationMessage": "",
+    "isPayerBackOffice": "FALSE",
+    "status": "Active",
+    "payerName": "MEDICARE - ALL STATES",
+    "verificationType": "Subscriber Verification",
+    "errorCode": null,
+    "errorDescription": null,
+    "processedWithError": false,
+    "dos": "01/02/2018 - 01/02/2018",
+    "plan": " Medicare Part A -  Medicare Part B",
+    "isHMOPlan": false,
+    "exceptionNotes": "",
+    "additionalInformation": null,
+    "otherMessage": "Allowed",
+    "reportURL": "https://www.pverify.com/PremiumAccount/ViewDetailsForRecord?elgID=buPMYsPBBDTU6FD8LVqccw~~",
+    "recursiveRequestId": 0,
+    "recursiveAPIResponseCode": null,
+    "recursiveAPIResponseMessage": null,
+    "recursiveProcessedWithError": false,
+    "detailsURL": null,
+    "internalId": null,
+    "customerId": null,
+    "referenceId": null,
+    "notes": null,
+    "location": null,
+    "eligibilityPeriod": {
+        "label": null,
+        "effectiveFromDate": "08/01/2014",
+        "expiredOnDate": null
+    },
+    "demographicInfo": {
+        "subscriber": {
+            "address1": "605 E 2ND AVE",
+            "address2": null,
+            "city": "CHADBOURN",
+            "communicationNumber": null,
+            "date": [
+                {
+                    "date": "01/02/2018",
+                    "type": "Eligibility"
+                }
+            ],
+            "doB_R": "08/29/1949",
+            "firstname": "John",
+            "gender_R": "Male",
+            "identification": [
+                {
+                    "code": "Deo",
+                    "type": "Lastname_R",
+                    "name": null
+                },
+                {
+                    "code": "John",
+                    "type": "Firstname",
+                    "name": null
+                },
+                {
+                    "code": "Member Id",
+                    "type": "Member ID",
+                    "name": null
+                }
+            ],
+            "lastname_R": "Deo",
+            "middlename": "W",
+            "state": "NC",
+            "suffix": null,
+            "zip": "284312009",
+            "militaryPersonnelInfo": null,
+            "fullName": "John Deo"
+        },
+        "dependent": null
+    },
+    "networkSections": [
+        {
+            "identifier": "Deductible",
+            "label": "Deductible",
+            "inNetworkParameters": [
+                {
+                    "key": "Annual",
+                    "value": "183.00",
+                    "message": null,
+                    "otherInfo": null
+                },
+                {
+                    "key": "Remaining",
+                    "value": " 183.00",
+                    "message": null,
+                    "otherInfo": null
+                }
+            ],
+            "outNetworkParameters": null
+        },
+        {
+            "identifier": "Specialist",
+            "label": "Specialist",
+            "inNetworkParameters": [
+                {
+                    "key": "Co-Ins",
+                    "value": "20%",
+                    "message": null,
+                    "otherInfo": null
+                }
+            ],
+            "outNetworkParameters": null
+        }
+    ],
+    "healthBenefitPlanCoverageServiceType": {
+        "serviceTypeName": "Health Benefit Plan Coverage",
+        "serviceTypeSections": [
+            {
+                "label": "",
+                "serviceParameters": [
+                    {
+                        "key": "Active Coverage ",
+                        "value": null,
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part A",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "08/01/2014",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Active Coverage ",
+                        "value": null,
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part B",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "08/01/2014",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Visit Co-Insurance ",
+                        "value": "20%",
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part B",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "01/01/2018 - 12/31/2018",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Episode Deductible ",
+                        "value": "$1340.00",
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part A",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "01/01/2018 - 12/31/2018",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Remaining Deductible ",
+                        "value": "$1340.00",
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part A",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "01/01/2018 - 12/31/2018",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Calendar Year Deductible ",
+                        "value": "$183.00",
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part B",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "01/01/2018 - 12/31/2018",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    },
+                    {
+                        "key": "Remaining Deductible ",
+                        "value": "$183.00",
+                        "message": [],
+                        "otherInfo": [
+                            {
+                                "key": "Policy Type",
+                                "value": "Medicare Part B",
+                                "message": null,
+                                "otherInfo": null
+                            },
+                            {
+                                "key": "Plan",
+                                "value": "01/01/2018 - 12/31/2018",
+                                "message": null,
+                                "otherInfo": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "servicesTypes": [
+        {
+            "serviceTypeName": "Adjunctive Dental Services",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Alcoholism",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Visit Co-Insurance ",
+                            "value": "0%",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Calendar Year Deductible ",
+                            "value": "$0.00",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Chiropractic",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Consultation",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Dental Accident",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Dental Crowns",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Diagnostic Dental",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Diagnostic Medical",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Dialysis",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Drug Addiction",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Durable Medical Equipment",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Emergency Services",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Endodontics",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Gynecological",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Home Health Care",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Visit Co-Insurance ",
+                            "value": "0%",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Episode Deductible ",
+                            "value": "$0.00",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Calendar Year Deductible ",
+                            "value": "$0.00",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospice",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Episode Deductible ",
+                            "value": "$0.00",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Ambulatory Surgical",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Emergency Accident",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Emergency Medical",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Inpatient",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Outpatient",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Hospital - Room and Board",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Infertility",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Long Term Care",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Non-Covered ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Maternity",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Maxillofacial Prosthetics",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Obsterical",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Obsterical/Gynecological",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Oral Surgery",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Orthodontics",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Periodontics",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Pharmacy",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": null
+                        },
+                        {
+                            "key": "Other or Additional Payor ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Other",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan Number",
+                                    "value": "S5921 390",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "[Payer]",
+                    "serviceParameters": [
+                        {
+                            "key": "First Name",
+                            "value": null,
+                            "message": null,
+                            "otherInfo": [
+                                {
+                                    "key": "Middle Name",
+                                    "value": null,
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Deo",
+                                    "value": "UNITEDHEALTHCARE INS. CO. AND UNITEDHEALTHCARE NY",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Suffix",
+                                    "value": null,
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Address",
+                                    "value": "185 ASYLUM STREET",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "City",
+                                    "value": "HARTFORD",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "State",
+                                    "value": "CT",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Zip",
+                                    "value": "061030450",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Information Contact",
+                                    "value": null,
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Telephone",
+                                    "value": "8778423210",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Uniform Resource Locator (URL)",
+                                    "value": "WWW.AARPMEDICARERX.COM",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Professional (Physician) Visit - Office",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Prosthodontics",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Psychiatric",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Psychiatric - Inpatient",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Psychiatric - Outpatient",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Psychiatric - Room and Board",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Psychotherapy",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Restorative",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Routine (Preventive) Dental",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Non-Covered ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Skilled Nursing Care",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part A",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Smoking Cessation",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Visit Co-Insurance ",
+                            "value": "0%",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        },
+                        {
+                            "key": "Calendar Year Deductible ",
+                            "value": "$0.00",
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Benefit",
+                                    "value": "01/01/2018 - 12/31/2018",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Substance Abuse",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Surgical",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Urgent Care",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serviceTypeName": "Vision (Optometry)",
+            "serviceTypeSections": [
+                {
+                    "label": "",
+                    "serviceParameters": [
+                        {
+                            "key": "Active Coverage ",
+                            "value": null,
+                            "message": [],
+                            "otherInfo": [
+                                {
+                                    "key": "Policy Type",
+                                    "value": "Medicare Part B",
+                                    "message": null,
+                                    "otherInfo": null
+                                },
+                                {
+                                    "key": "Plan",
+                                    "value": "08/01/2014",
+                                    "message": null,
+                                    "otherInfo": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "customFields": [],
+    "extensionProperties": {
+        "payerCode": "00007",
+        "payerID": 2,
+        "resultReport": null,
+        "verifiedOn": null,
+        "verifiedBy": null
+    },
+    "verificationStatusCode": 0,
+    "responseText": null,
+    "nonEDIResultPath": null
+}

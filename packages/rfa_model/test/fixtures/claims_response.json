@@ -1,0 +1,10 @@
+{
+	"status": "approved",
+	"authorization_number": "123",
+	"date": "2021-02-02",
+	"authorized_agent_name": "Miss Sharkfina Blackwater",
+	"phone": "1111234567",
+	"fax_number": "23456",
+	"email": "sharkfina@gmail.com",
+	"comments": "It is approved"
+}

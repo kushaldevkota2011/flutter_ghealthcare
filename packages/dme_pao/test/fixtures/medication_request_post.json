@@ -1,0 +1,146 @@
+{
+    "performerType": {
+        "text": "nurse"
+    },
+    "category": [
+        {
+            "coding": [
+                {
+                    "code": "community",
+                    "display": "家中服用药物"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "source": "#vMeJ9Kota7UEwdKz",
+        "profile": [
+            "http://hl7.org/fhir/us/dme-orders/StructureDefinition/PAOX-medication-request"
+        ],
+        "lastUpdated": "2022-06-20T05:24:56.068574Z",
+        "versionId": "321",
+        "extension": [
+            {
+                "url": "ex:createdAt",
+                "valueInstant": "2022-06-20T05:24:56.068574Z"
+            }
+        ]
+    },
+    "encounter": {
+        "type": "Encounter",
+        "identifier": {
+            "use": "official",
+            "value": "SC_1100_1_1000003"
+        }
+    },
+    "dispenseRequest": {
+        "expectedSupplyDuration": {
+            "unit": "dias",
+            "value": 3
+        }
+    },
+    "reasonCode": [
+        {
+            "coding": [
+                {
+                    "code": "801006",
+                    "system": "http://snomed.info/sct",
+                    "display": "昆虫叮咬，无毒，感染"
+                }
+            ]
+        }
+    ],
+    "medicationCodeableConcept": {
+        "text": "Ibuprofen 200 MG Oral Tablet",
+        "coding": [
+            {
+                "code": "310965",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Ibuprofen 200 MG Oral Tablet"
+            }
+        ]
+    },
+    "authoredOn": "2021-04-03T08:58:00.000Z",
+    "resourceType": "MedicationRequest",
+    "note": [
+        {
+            "text": "直接喝"
+        }
+    ],
+    "requester": {
+        "type": "Practitioner",
+        "identifier": {
+            "use": "official",
+            "value": "SC_1100_1278"
+        }
+    },
+    "priority": "routine",
+    "status": "completed",
+    "id": "d2cec671-f73d-4fc3-9258-df946f571d27",
+    "dosageInstruction": [
+        {
+            "text": "Take\r\n 10 mg (1 tablet(s)) by mouth at Bedtime",
+            "route": {
+                "text": "Oral"
+            },
+            "timing": {
+                "code": {
+                    "text": "at\r\n Bedtime"
+                },
+                "repeat": {
+                    "timeOfDay": [
+                        "21:00:00"
+                    ],
+                    "period": 0,
+                    "frequency": 0,
+                    "boundsPeriod": {
+                        "end": "2021-04-03T21:00:00.000Z",
+                        "start": "2021-04-03T21:00:00.000Z"
+                    }
+                }
+            },
+            "patientInstruction": "Take 10 mg (1 tablet(s)) by mouth at Bedtime",
+            "doseAndRate": [
+                {
+                    "type": {
+                        "text": "ordered"
+                    },
+                    "doseQuantity": {
+                        "unit": "mg",
+                        "value": 10
+                    },
+                    "rateRatio": {
+                        "numerator": {
+                            "value": 0
+                        },
+                        "denominator": {
+                            "value": 0
+                        }
+                    }
+                }
+            ],
+            "asNeededBoolean": false
+        }
+    ],
+    "recorder": {
+        "type": "Practitioner",
+        "identifier": {
+            "use": "official",
+            "value": "SC_1100_CSCOTT"
+        }
+    },
+    "identifier": [
+        {
+            "use": "official",
+            "value": "SC_1100_1_1000003_262"
+        }
+    ],
+    "intent": "order",
+    "subject": {
+        "type": "Patient",
+        "identifier": {
+            "use": "official",
+            "value": "SC_1100_0_17"
+        }
+    }
+}

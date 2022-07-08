@@ -1,0 +1,64 @@
+{
+	"employee_info": {
+		"name": "Nemo Seawell",
+		"date_of_injury": "2022-06-03",
+		"date_of_birth": "1999-07-30",
+		"claim_number": "2244",
+		"employer": "Underwater Corps"
+	},
+	"physician_info": {
+		"name": "Dr Stingray Simons",
+		"practice_name": "Dr Sting",
+		"contact_name": "Sting",
+		"address": "Ocean street, Pacific",
+		"city": "oceanwall",
+		"state": "Coral Reff state",
+		"zip_code": "12345",
+		"phone": "123456877",
+		"fax_number": "567",
+		"specialty": "Gills",
+		"NPI_number": "23456789",
+		"email": "sting@gmail.com"
+	},
+	"claims_administrator": {
+		"company_name": "Underwater Corps",
+		"contact_name": "Underwater Co",
+		"address": "Ocean street, Pacific",
+		"city": "Mermaid city",
+		"state": "Coral reef state",
+		"zip_code": "004420",
+		"phone": "12345890",
+		"fax_number": "234567",
+		"email": "underwater@gmail.com"
+	},
+	"claims_response": {
+		"status": "approved",
+		"authorization_number": "123",
+		"date": "2021-02-02",
+		"authorized_agent_name": "Miss Sharkfina Blackwater",
+		"phone": "1111234567",
+		"fax_number": "23456",
+		"email": "sharkfina@gmail.com",
+		"comments": "It is approved"
+	},
+	"requested_treatment": [{
+			"diagnosis": "Gills not working efficiently",
+			"icd_code": "001",
+			"service_requested": "Breathing mask",
+			"cpt_or_hcpcs_code": "44",
+			"other_information": "None"
+		},
+		{
+			"diagnosis": "One fin needs support",
+			"icd_code": "0015",
+			"service_requested": "Fin support brace",
+			"cpt_or_hcpcs_code": "454",
+			"other_information": "None"
+		}
+	],
+	"new_request": true,
+	"resubmission": false,
+	"expedited_review": false,
+	"written_confirmation_of_oral_request": false,
+	"deleted_at": null
+}

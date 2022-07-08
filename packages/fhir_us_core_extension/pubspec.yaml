@@ -1,0 +1,60 @@
+name: fhir_us_core_extension
+description: A new Flutter package project.
+version: 0.0.1
+# homepage:
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fhir: ^0.7.0
+  freezed_annotation: ^2.0.3
+  json_annotation: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  freezed: ^2.0.3+1
+  build_runner: ^2.1.11
+  json_serializable: ^6.2.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

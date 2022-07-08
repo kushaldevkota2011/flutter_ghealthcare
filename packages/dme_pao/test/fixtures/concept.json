@@ -1,0 +1,15 @@
+{
+    "id": "rxnorm-102700",
+    "code": "102700",
+    "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+    "display": "Penicillin V Potassium 125 MG Oral Tablet [V-Cil-K]",
+    "valueset": [
+        "rxnorm"
+    ],
+    "resourceType": "Concept",
+    "meta": {
+        "lastUpdated": "2020-06-04T04:35:09.283824Z",
+        "createdAt": "2020-06-04T04:35:09.283824Z",
+        "versionId": "0"
+    }
+}

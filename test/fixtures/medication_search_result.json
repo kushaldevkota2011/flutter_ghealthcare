@@ -1,0 +1,2428 @@
+{
+    "resourceType": "Bundle",
+    "type": "searchset",
+    "meta": {
+        "versionId": "2381"
+    },
+    "total": 17003,
+    "link": [
+        {
+            "relation": "first",
+            "url": "/fhir/Concept?valueset=rxnorm&display=P&page=1"
+        },
+        {
+            "relation": "self",
+            "url": "/fhir/Concept?valueset=rxnorm&display=P&page=1"
+        },
+        {
+            "relation": "next",
+            "url": "/fhir/Concept?valueset=rxnorm&display=P&page=2"
+        },
+        {
+            "relation": "last",
+            "url": "/fhir/Concept?valueset=rxnorm&display=P&page=171"
+        }
+    ],
+    "entry": [
+        {
+            "resource": {
+                "id": "rxnorm-102700",
+                "code": "102700",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Penicillin V Potassium 125 MG Oral Tablet [V-Cil-K]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102700",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102700"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102731",
+                "code": "102731",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pivampicillin 35 MG/ML Oral Suspension [Pondocillin]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102731",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102731"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102734",
+                "code": "102734",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pivampicillin 32.4 MG/ML Oral Suspension",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102734",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102734"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102778",
+                "code": "102778",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Erythromycin 25 MG/ML Oral Suspension [Erythroped PI SF]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102778",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102778"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102991",
+                "code": "102991",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Polysaccharide iron complex 50 MG Oral Tablet [Niferex]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102991",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102991"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102794",
+                "code": "102794",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "phthalylsulfathiazole 500 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102794",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102794"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102822",
+                "code": "102822",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pyrimethamine 12.5 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102822",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102822"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102824",
+                "code": "102824",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "piperazine 500 MG Oral Tablet [antepar]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102824",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102824"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102828",
+                "code": "102828",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "piperazine 500 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102828",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102828"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102857",
+                "code": "102857",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 16 MG/ML Injectable Solution [Codelsol]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102857",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102857"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102858",
+                "code": "102858",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 5 MG Oral Tablet [Stintisone]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102858",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102858"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102859",
+                "code": "102859",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 16 MG/ML Injectable Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102859",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102859"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102868",
+                "code": "102868",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Progesterone 10 MG/ML Injectable Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102868",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102868"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102934",
+                "code": "102934",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "diphenylpyraline 5 MG / Phenylpropanolamine 50 MG Extended Release Oral Capsule [Eskornade]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102934",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102934"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-89904",
+                "code": "89904",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "calcium chloride, dihydration 0.2 MG/ML / Potassium Chloride 0.3 MG/ML / Sodium Chloride 6 MG/ML / Sodium Lactate 3.1 MG/ML Irrigation Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-89904",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-89904"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-91348",
+                "code": "91348",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Hydrogen Peroxide 300 MG/ML Topical Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-91348",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-91348"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-91349",
+                "code": "91349",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Hydrogen Peroxide 30 MG/ML Topical Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-91349",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-91349"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-92758",
+                "code": "92758",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Griseofulvin 165 MG Oral Tablet [Fulvicin P/G]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-92758",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-92758"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-92759",
+                "code": "92759",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Griseofulvin 330 MG Oral Tablet [Fulvicin P/G]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-92759",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-92759"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-96304",
+                "code": "96304",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Primidone 250 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-96304",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-96304"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102236",
+                "code": "102236",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenolphthalein 125 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102236",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102236"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102299",
+                "code": "102299",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Practolol 2 MG/ML Injectable Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102299",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102299"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102335",
+                "code": "102335",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pentaerythritol Tetranitrate 30 MG Extended Release Oral Capsule [Cardiacap]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102335",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102335"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102339",
+                "code": "102339",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Prenylamine 60 MG Oral Tablet [Synadrin]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102339",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102339"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102340",
+                "code": "102340",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Prenylamine 60 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102340",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102340"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102446",
+                "code": "102446",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "diphenylpyraline 2.5 MG Extended Release Oral Capsule [Histryl Pediatric Spansule]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102446",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102446"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102605",
+                "code": "102605",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Acetaminophen 50 MG/ML Oral Suspension [Calpol Six Plus]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102605",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102605"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102662",
+                "code": "102662",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pizotyline 1.5 MG Oral Tablet [Sanomigran]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102662",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102662"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102666",
+                "code": "102666",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenobarbital 15 MG Oral Tablet [Luminal]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102666",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102666"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102667",
+                "code": "102667",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenobarbital 30 MG Oral Tablet [Luminal]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102667",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102667"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102668",
+                "code": "102668",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenobarbital 60 MG Oral Tablet [Luminal]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102668",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102668"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102690",
+                "code": "102690",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Penicillin G 229 MG/ML Injectable Suspension [Penidural-LA]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102690",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102690"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102692",
+                "code": "102692",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "penicillin G benzathine 115 MG/ML Oral Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102692",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102692"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102693",
+                "code": "102693",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "phenethicillin 250 MG Oral Capsule [Broxil]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102693",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102693"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102695",
+                "code": "102695",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "phenethicillin 250 MG Oral Capsule",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102695",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102695"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102697",
+                "code": "102697",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Penicillin V 125 MG Oral Capsule",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102697",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102697"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-102699",
+                "code": "102699",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Penicillin V 125 MG Oral Granules",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-102699",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-102699"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103169",
+                "code": "103169",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pyridostigmine 1 MG/ML Injectable Solution [Mestinon]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103169",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103169"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103170",
+                "code": "103170",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Pyridostigmine 1 MG/ML Injectable Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103170",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103170"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103500",
+                "code": "103500",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.025 MG/MG Topical Gel [Acetoxyl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103500",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103500"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103501",
+                "code": "103501",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.05 MG/MG Topical Gel [Acetoxyl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103501",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103501"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103502",
+                "code": "103502",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.05 MG/MG Topical Gel [Acnegel]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103502",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103502"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103503",
+                "code": "103503",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.1 MG/MG Topical Gel [Acnegel Forte]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103503",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103503"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103201",
+                "code": "103201",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "propamidine isethionate 1 MG/ML Ophthalmic Solution [Brolene]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103201",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103201"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103511",
+                "code": "103511",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.05 MG/MG Topical Gel [Theraderm]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103511",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103511"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103223",
+                "code": "103223",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 5 MG/ML Ophthalmic Solution [Predsol]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103223",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103223"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103512",
+                "code": "103512",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.1 MG/MG Topical Gel [Theraderm]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103512",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103512"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103249",
+                "code": "103249",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Polyvinyl Alcohol 0.014 ML/ML Ophthalmic Solution [Sno-Tears]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103249",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103249"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-427550",
+                "code": "427550",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Protamone 7 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-427550",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-427550"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103263",
+                "code": "103263",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 5 MG/ML Otic Solution [Predsol]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103263",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103263"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103264",
+                "code": "103264",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 5 MG/ML Otic Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103264",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103264"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103318",
+                "code": "103318",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "polynoxylin 30 MG Oral Lozenge",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103318",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103318"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103528",
+                "code": "103528",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "podofilox 5 MG/ML Topical Solution [Wartec]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103528",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103528"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103529",
+                "code": "103529",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "podofilox 5 MG/ML Topical Solution [Condyline]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103529",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103529"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103430",
+                "code": "103430",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Clobetasol Propionate 0.5 MG/ML Topical Cream [Dermovate]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103430",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103430"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103431",
+                "code": "103431",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Clobetasol Propionate 0.0005 MG/MG Topical Ointment [Dermovate]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103431",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103431"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103461",
+                "code": "103461",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Fluocortolone Caproate 2.5 MG/ML / Fluocortolone Pivalate 2.5 MG/ML Topical Cream",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103461",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103461"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103462",
+                "code": "103462",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Fluocortolone Caproate 0.0025 MG/MG / Fluocortolone Pivalate 0.0025 MG/MG Topical Ointment",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103462",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103462"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103157",
+                "code": "103157",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenylbutazone 200 MG Oral Tablet [Butacote]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103157",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103157"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103158",
+                "code": "103158",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenylbutazone 100 MG Oral Tablet [Butazolidin]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103158",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103158"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103159",
+                "code": "103159",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Phenylbutazone 200 MG Oral Tablet [Butazolidin]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103159",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103159"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103166",
+                "code": "103166",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "prednisolone 16 MG/ML Injectable Solution [Codelson]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103166",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103166"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103021",
+                "code": "103021",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Potassium Chloride 8 MEQ Extended Release Oral Tablet [Leo-K]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103021",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103021"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103022",
+                "code": "103022",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Potassium Chloride 8 MEQ Extended Release Oral Tablet [Nu-K]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103022",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103022"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103584",
+                "code": "103584",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Clotrimazole 0.01 MG/MG Topical Powder [Canesten]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103584",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103584"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103586",
+                "code": "103586",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Econazole 0.01 MG/MG Powder Spray [Pevaryl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103586",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103586"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103625",
+                "code": "103625",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "phenothrin 2 MG/ML Topical Lotion [Full Marks]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103625",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103625"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103626",
+                "code": "103626",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Permethrin 10 MG/ML Medicated Shampoo [Lyclear]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103626",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103626"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103629",
+                "code": "103629",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "polynoxylin 100 MG/ML Topical Cream [Anaflex]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103629",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103629"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103633",
+                "code": "103633",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "polynoxylin 0.1 MG/MG Topical Gel [Ponoxylan]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103633",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103633"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103638",
+                "code": "103638",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Chlorhexidine 0.005 MG/MG Topical Powder",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103638",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103638"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103665",
+                "code": "103665",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Hydrogen Peroxide 270 MG/ML Topical Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103665",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103665"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103667",
+                "code": "103667",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Povidone-Iodine 0.025 MG/MG Powder Spray [Betadine]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103667",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103667"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103668",
+                "code": "103668",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Povidone-Iodine 40 MG/ML Medicated Liquid Soap [Betadine]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103668",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103668"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103670",
+                "code": "103670",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Povidone-Iodine 100 MG/ML Topical Solution [Videne]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103670",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103670"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103681",
+                "code": "103681",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 200 MG/ML Topical Lotion [Benoxyl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103681",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103681"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103682",
+                "code": "103682",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Hydrogen Peroxide 15 MG/ML Topical Cream [Hioxyl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103682",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103682"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103749",
+                "code": "103749",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 10 MG Oral Tablet [Omnopon]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103749",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103749"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103750",
+                "code": "103750",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 20 MG/ML Injectable Solution [Omnopon]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103750",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103750"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103751",
+                "code": "103751",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 10 MG/ML Injectable Solution [Omnopon]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103751",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103751"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103753",
+                "code": "103753",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 10 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103753",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103753"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103795",
+                "code": "103795",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Chlorhexidine Acetate 0.5 MG/ML Topical Solution [Steripod Pink]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103795",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103795"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103798",
+                "code": "103798",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.05 MG/MG Topical Gel [Acnecide]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103798",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103798"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103799",
+                "code": "103799",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Benzoyl Peroxide 0.1 MG/MG Topical Gel [Acnecide]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103799",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103799"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103840",
+                "code": "103840",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Econazole Nitrate 0.01 MG/MG Topical Powder [Pevaryl]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103840",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103840"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103844",
+                "code": "103844",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Povidone-Iodine 0.0114 MG/MG Powder Spray [Savlon Dry]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103844",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103844"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103897",
+                "code": "103897",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 15.4 MG/ML Injectable Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103897",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103897"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103898",
+                "code": "103898",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Papaveretum 15.4 MG/ML Injectable Solution [Omnopon]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103898",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103898"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103916",
+                "code": "103916",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Fosfomycin 2000 MG Oral Suspension [Monuril Paediatric]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103916",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103916"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103966",
+                "code": "103966",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet [Carace Plus]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103966",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103966"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-103972",
+                "code": "103972",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Ibuprofen 50 MG/ML Topical Cream [Proflex Pain Relief]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-103972",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-103972"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104045",
+                "code": "104045",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "pipenzolate 5 MG Oral Tablet [Piptal]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104045",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104045"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104047",
+                "code": "104047",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "dimethicone 8 MG/ML / pipenzolate 0.8 MG/ML Oral Suspension",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104047",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104047"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104048",
+                "code": "104048",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "pipenzolate 5 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104048",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104048"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104049",
+                "code": "104049",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "poldine 2 MG Oral Tablet [Nacton]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104049",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104049"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104050",
+                "code": "104050",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "poldine 4 MG Oral Tablet [Nacton Forte]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104050",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104050"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104051",
+                "code": "104051",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "poldine 4 MG Oral Tablet",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104051",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104051"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104052",
+                "code": "104052",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "Propantheline 15 MG Oral Tablet [Probanthine]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104052",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104052"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104141",
+                "code": "104141",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "picosulfate sodium 0.0667 MG/ML Oral Solution [Picolax]",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104141",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104141"
+                }
+            ]
+        },
+        {
+            "resource": {
+                "id": "rxnorm-104143",
+                "code": "104143",
+                "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+                "display": "picosulfate sodium 0.0667 MG/ML Oral Solution",
+                "valueset": [
+                    "rxnorm"
+                ],
+                "resourceType": "Concept",
+                "meta": {
+                    "lastUpdated": "2020-06-04T04:35:09.283824Z",
+                    "createdAt": "2020-06-04T04:35:09.283824Z",
+                    "versionId": "0"
+                }
+            },
+            "fullUrl": "https://rideon.aidbox.app/Concept/rxnorm-104143",
+            "link": [
+                {
+                    "relation": "self",
+                    "url": "https://rideon.aidbox.app/Concept/rxnorm-104143"
+                }
+            ]
+        }
+    ]
+}
