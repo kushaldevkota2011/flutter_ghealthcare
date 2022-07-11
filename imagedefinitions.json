@@ -1,0 +1,6 @@
+[
+    {
+        "name": "fluttercontainer",
+        "imageUri": "031342435657.dkr.ecr.us-east-1.amazonaws.com/flutter-web:latest"
+    }
+]
