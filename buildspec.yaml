@@ -10,9 +10,9 @@ phases:
       - echo Build started on `date`
       - echo Building the Docker image...
       - docker build -t flutter-web .
-      - docker tag flutter-web:latest 031342435657.dkr.ecr.us-east-1.amazonaws.com/flutter-web
+      - docker tag flutter-web:latest 031342435657.dkr.ecr.us-east-1.amazonaws.com/flutter-web:latest
   post_build:
     commands:
       - echo Build completed on `date`
       - echo Pushing the Docker image...
-      - docker push 031342435657.dkr.ecr.us-east-1.amazonaws.com/flutter-web
+      - docker push 031342435657.dkr.ecr.us-east-1.amazonaws.com/flutter-web:latest

@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
         )
       ],
       child: MaterialApp(
-        title: 'Rideon',
+        title: 'Rideons',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           textTheme: GoogleFonts.latoTextTheme(),
